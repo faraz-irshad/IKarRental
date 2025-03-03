@@ -19,21 +19,6 @@
 
 ---
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/iKarRental.git
-   ```
-2. **Set Up a Local PHP Server:**
-   - Use XAMPP, WAMP, or any PHP-supported server environment.
-   - Place the project folder in the server's root directory (e.g., `htdocs` for XAMPP).
-
-3. **Run the Application:**
-   - Open your browser and navigate to `http://localhost/iKarRental`.
-
----
-
 ## Usage
 
 ### For Users:
