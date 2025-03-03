@@ -60,15 +60,15 @@
 ## Screenshots
 
 ### Homepage
-![Homepage]![image](https://github.com/user-attachments/assets/29ee17b6-69df-4e56-af2e-7be9ae17bc6f)
+[image](https://github.com/user-attachments/assets/29ee17b6-69df-4e56-af2e-7be9ae17bc6f)
 
 
 ### Car Details Page
-![Car Details]![image](https://github.com/user-attachments/assets/d39a590f-4c8b-4209-8b54-ed6c686bd908)
+[image](https://github.com/user-attachments/assets/d39a590f-4c8b-4209-8b54-ed6c686bd908)
 
 
 ### Successful/Unsuccessful Booking
-![Booking Success]![image](https://github.com/user-attachments/assets/9da4c1c4-cbfa-4a8b-acaf-1f56b832c860)
+[image](https://github.com/user-attachments/assets/9da4c1c4-cbfa-4a8b-acaf-1f56b832c860)
 
 
 ---
