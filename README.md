@@ -56,19 +56,3 @@
 3. **View Bookings:** Access the admin profile page to view and manage all bookings.
 
 ---
-
-## Screenshots
-
-### Homepage
-[image](https://github.com/user-attachments/assets/29ee17b6-69df-4e56-af2e-7be9ae17bc6f)
-
-
-### Car Details Page
-[image](https://github.com/user-attachments/assets/d39a590f-4c8b-4209-8b54-ed6c686bd908)
-
-
-### Successful/Unsuccessful Booking
-[image](https://github.com/user-attachments/assets/9da4c1c4-cbfa-4a8b-acaf-1f56b832c860)
-
-
----
